@@ -1,0 +1,21 @@
+.header-content{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRep46pBV4sLua1Qj1hPs19OVd5cUHlGMZBw&usqp=CAU");
+    opacity: 40%;
+    height: 160px;
+}
+.header-text{
+    text-align: center;
+    opacity: 100%;
+}
+.header-text h1{
+    padding: 10px;
+    color: whitesmoke;
+}
+.header-text h2{
+    padding: 10px;
+    color: whitesmoke;
+}
+.header-text p{
+    padding: 10px;
+    color: whitesmoke;
+}
